@@ -64,7 +64,7 @@ a.border-button {
 
 a.border-button:hover {
 	background-color: #fff;
-	color: #a4c639;
+	color: #181917;
 }
 
 .section-heading {
@@ -174,7 +174,7 @@ a.border-button:hover {
 /* Sub Header Style */
 
 .sub-header {
-	background-color: #a4c639;
+	background-color: #232321;
 	height: 46px;
 	line-height: 46px;
 }
